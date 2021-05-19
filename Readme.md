@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Тимофей Кривцов](https://up.htmlacademy.ru/htmlcss/31/user/1802563).
-* Наставник: [Константин Черепанов](https://up.htmlacademy.ru/htmlcss/31/user/118885).
+* Наставник: [Константин Черепанов](https://htmlacademy.ru/profile/ccher).
 
 ---
 
